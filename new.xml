@@ -1,0 +1,8 @@
+<?xml version = "1.0"?>
+<about_me>
+    <name>Maksim</name>
+    <surname>Marozau</surname>
+    <age>43</age>
+    <pets_quantity>2</pets_quantity>
+    <salary>1500</salary>
+</about_me>
