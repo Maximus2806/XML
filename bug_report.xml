@@ -1,1 +1,16 @@
-
+<bugreport>
+    <Project>HelloWorld</Project>
+    <Id>25</Id>
+    <Summary>Improper logo</Summary>
+    <Description>Logo on the first page doesn't match to one from requirements</Description>
+    <Steps_to_reproduce>Look at the lower left corner of the screen</Steps_to_reproduce>
+    <Actual_result>Logo isn't the same as one in the requirements</Actual_result>
+    <Expected_result>Logo is the same as one in the requirements</Expected_result>
+    <Severity>Minor</Severity>
+    <Priority>High</Priority>
+    <Status>Opened</Status>
+    <Environment>Windows10, Google Chrome</Environment>
+    <Author>Maksim Marozau</Author>
+    <Assigned_to>Vadim Ksendzov</Assigned_to>
+    <Attachement>https://photos.google.com/</Attachement>
+</bugreport>
